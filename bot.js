@@ -46,4 +46,4 @@ client.on('message', async message => {
 });
 
 
-client.login("mfa.LCTD-54vN_-mfDzEPP5HDZVoGV0LHjJSvPN76BvJI1ajXKbEYzVwPqUs0rEC7Op-1uS0H1NB4Yo-OlYIz_p1");
+client.login(BOT_TOKEN);
